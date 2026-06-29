@@ -1,0 +1,155 @@
+<h2 id="data-deletion">User Rights and Data Deletion Requests</h2>
+
+<p>
+    Harmony Engine Plus does not require users to create an account and does
+    not maintain user profiles or a database containing names, email addresses,
+    musical projects, MIDI performances, or other user-generated content.
+</p>
+
+<p>
+    Users may nevertheless request the deletion of technical information that
+    may be present in licence-verification, security, or server logs.
+</p>
+
+<h3>How to Submit a Data Deletion Request</h3>
+
+<p>
+    To request deletion of data associated with the use of Harmony Engine Plus,
+    send an email to:
+</p>
+
+<p>
+    <a href="mailto:vallaproductionsoriginal@gmail.com?subject=Harmony%20Engine%20Plus%20-%20Data%20Deletion%20Request">
+        vallaproductionsoriginal@gmail.com
+    </a>
+</p>
+
+<p>
+    Use the following subject line:
+</p>
+
+<p>
+    <strong>Harmony Engine Plus - Data Deletion Request</strong>
+</p>
+
+<p>
+    The request should include, where available:
+</p>
+
+<ul>
+    <li>the approximate date and time when the app was used or the verification request occurred;</li>
+    <li>the application version installed at that time;</li>
+    <li>the country or time zone from which the request was made;</li>
+    <li>the public IP address used at that time, if known;</li>
+    <li>a brief description of the data or event concerned.</li>
+</ul>
+
+<p>
+    Users should not send passwords, Google account credentials, payment
+    details, copies of identity documents, device serial numbers, advertising
+    identifiers, or other unnecessary sensitive information.
+</p>
+
+<h3>Processing of the Request</h3>
+
+<p>
+    Valla Productions will review the information provided and make reasonable
+    efforts to identify any relevant technical records.
+</p>
+
+<p>
+    If the records can be reasonably identified, the associated technical data
+    will be deleted or anonymised unless its continued retention is necessary
+    for:
+</p>
+
+<ul>
+    <li>compliance with a legal obligation;</li>
+    <li>the establishment, exercise, or defence of legal claims;</li>
+    <li>the investigation of fraud, abuse, piracy, or a security incident;</li>
+    <li>the protection of the app, verification server, developer, or users.</li>
+</ul>
+
+<p>
+    Deletion requests will normally be processed within 30 days. Where
+    permitted by applicable law, this period may be extended if the request is
+    unusually complex or if multiple requests have been submitted. In such
+    cases, the user will be informed by email.
+</p>
+
+<p>
+    The developer may request limited additional technical information when
+    reasonably necessary to locate the relevant records. The developer will
+    not request a password, Google account credentials, or payment information.
+</p>
+
+<h3>Data That May Be Deleted</h3>
+
+<p>
+    Depending on what is available and identifiable, a deletion request may
+    cover:
+</p>
+
+<ul>
+    <li>IP addresses contained in server access or security logs;</li>
+    <li>licence-verification timestamps;</li>
+    <li>request identifiers, hashes, nonces, or verification references;</li>
+    <li>application version and package information associated with a request;</li>
+    <li>integrity or licensing verdicts stored in technical logs;</li>
+    <li>error, rate-limit, and anti-abuse records associated with the request.</li>
+</ul>
+
+<h3>Data Stored Locally on the Device</h3>
+
+<p>
+    A valid licence-verification result may be stored locally on the user's
+    device for up to seven days.
+</p>
+
+<p>
+    Users may remove locally stored app data by using the Android system
+    settings:
+</p>
+
+<ol>
+    <li>open Android Settings;</li>
+    <li>select Apps;</li>
+    <li>select Harmony Engine Plus;</li>
+    <li>select Storage;</li>
+    <li>select Clear data or Clear storage.</li>
+</ol>
+
+<p>
+    Uninstalling Harmony Engine Plus also removes locally stored application
+    data from the device, subject to Android and Google backup settings.
+</p>
+
+<h3>Limitations</h3>
+
+<p>
+    Because Harmony Engine Plus does not create user accounts and does not
+    assign a permanent developer-controlled identifier to each user, it may not
+    always be possible to associate an individual person with a specific
+    technical log entry.
+</p>
+
+<p>
+    If the relevant records cannot be identified using the information
+    provided, Valla Productions will explain this in its response. Technical
+    logs are otherwise deleted or anonymised according to the retention periods
+    described in this Privacy Policy.
+</p>
+
+<h3>Complaints and Additional Rights</h3>
+
+<p>
+    Depending on applicable law, users may also have the right to request
+    access, correction, restriction, or objection to the processing of their
+    personal data.
+</p>
+
+<p>
+    Users located in the European Economic Area may lodge a complaint with
+    their competent data-protection authority if they believe that their
+    personal data has been processed unlawfully.
+</p>
